@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: The Portfolio
+description: A collection of project work that produced on my professional development journey.
+logo: ./assets/img/logo.png
+# show_downloads: "true"

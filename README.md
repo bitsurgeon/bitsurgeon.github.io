@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to Yongzhi's Portfolio
 
-You can use the [editor on GitHub](https://github.com/bitsurgeon/bitsurgeon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## This page serves as a master index for the source codes, wikis, thoughts and ideas that were created and developed during my professional career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### Autonomous Driving
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are the projects that I have done when completing the [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) from Udacity.
 
-```markdown
-Syntax highlighted code block
+- [Finding Lane Lines](./udacity/FindingLaneLines.md)
+- [Advanced Lane Finding](./AdvancedLaneFinding.md)
+- [Traffic Sign Classifier](./udacity/TrafficSignClassifier.md)
+- [Behavioral Cloning](./udacity/BehavioralCloning.md)
+- Extended Kalman Filter: _coming soon_
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+**Quick Links:**
++ [Wiki](https://github.com/bitsurgeon/wiki)
+  - _coming soon_
++ [Gist](https://gist.github.com/bitsurgeon)
+  - [conda cheatsheet](https://gist.github.com/bitsurgeon/7a2487a0ba03e37f2cc4fe1f2f2b38fb) and [environment](https://gist.github.com/bitsurgeon/7a0ef420c79ad882b628746174c9e8b7) config file for deep leanring
+  - [git cheatsheet](https://gist.github.com/bitsurgeon/fafeba1ffaad7a2ad3210e6c76e7d003)
+  - [WSL cheatsheet](https://gist.github.com/bitsurgeon/cc8d0bede2018e63419cc1d64cb00721)
+  - markdown [YouTube cheatsheet](https://gist.github.com/bitsurgeon/acd769ae3236c48a433e0acb11784c2e)
 
-1. Numbered
-2. List
+_Welcome all suggestions and discussions for improvements._
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitsurgeon/bitsurgeon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
