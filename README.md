@@ -8,15 +8,15 @@
 
 These are the projects that I have done when completing the [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) from Udacity.
 
-- [Finding Lane Lines](https://github.com/bitsurgeon/bitsurgeon.github.io/blob/master/udacity/FindingLaneLines.md)
-- [Advanced Lane Finding](https://github.com/bitsurgeon/bitsurgeon.github.io/blob/master/udacity/AdvancedLaneFinding.md)
-- [Traffic Sign Classifier](https://github.com/bitsurgeon/bitsurgeon.github.io/blob/master/udacity/TrafficSignClassifier.md)
-- Behavior Cloning - _coming soon ..._
+- [Finding Lane Lines](./udacity/FindingLaneLines.md)
+- [Advanced Lane Finding](./AdvancedLaneFinding.md)
+- [Traffic Sign Classifier](./udacity/TrafficSignClassifier.md)
+- [Behavior Cloning](./udacity/Behavior Cloning.md)
 
 ---
 
 **Quick Links:**
-+ [Wiki](https://github.com/bitsurgeon/bitsurgeon.github.io/wiki/Home)
++ [Wiki](https://github.com/bitsurgeon/wiki)
 + [Gist](https://gist.github.com/bitsurgeon)
 
 _Welcome all suggestions and discussions for improvements._
