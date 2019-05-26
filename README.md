@@ -11,7 +11,7 @@ These are the projects that I have done when completing the [Self-Driving Car En
 - [Finding Lane Lines](./udacity/FindingLaneLines.md)
 - [Advanced Lane Finding](./AdvancedLaneFinding.md)
 - [Traffic Sign Classifier](./udacity/TrafficSignClassifier.md)
-- [Behavior Cloning](./udacity/Behavior Cloning.md)
+- [Behavioral Cloning](./udacity/BehavioralCloning.md)
 
 ---
 
