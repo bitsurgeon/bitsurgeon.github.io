@@ -17,7 +17,7 @@ These are the projects that I have done when completing the [Self-Driving Car En
 ---
 
 **Quick Links:**
-+ [Wiki](https://github.com/bitsurgeon/wiki)
++ [Wiki](./wiki.md)
 + [Gist](./gist.md)
 
 _Welcome all suggestions and discussions for improvements._
