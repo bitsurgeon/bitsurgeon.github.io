@@ -6,9 +6,9 @@ A 9 layers neural network was trained to keep the car driving in the center of t
 
 The driving data is captured by 3 cameras. Here are the examples of the captured images:
 
-<img src="https://raw.githubusercontent.com/bitsurgeon/CarND_BehavioralCloning/master/examples/left1.jpg" alt="left" width="200">
-<img src="https://raw.githubusercontent.com/bitsurgeon/CarND_BehavioralCloning/master/examples/center1.jpg" alt="center" width="200">
-<img src="https://raw.githubusercontent.com/bitsurgeon/CarND_BehavioralCloning/master/examples/right1.jpg" alt="right" width="200">
+<img src="https://raw.githubusercontent.com/bitsurgeon/CarND_BehavioralCloning/master/examples/left1.jpg" alt="left" width="140">
+<img src="https://raw.githubusercontent.com/bitsurgeon/CarND_BehavioralCloning/master/examples/center1.jpg" alt="center" width="140">
+<img src="https://raw.githubusercontent.com/bitsurgeon/CarND_BehavioralCloning/master/examples/right1.jpg" alt="right" width="140">
 
 Some of the highlights of the project are:
 
