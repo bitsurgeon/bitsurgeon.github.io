@@ -12,7 +12,7 @@ The driving data is captured by 3 cameras. Here are the examples of the captured
 
 Some of the highlights of the project are:
 
-* the network consistes a mix of convolutional layers and fully connected layers
+* a mix of convolutional layers and fully connected layers
 * different kernel sizes and strides are used
 * dropout layer to prevent model overfitting
 * ReLu activation to introduce non-linearity
