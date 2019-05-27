@@ -2,7 +2,7 @@
 
 Train a deep neural network to drive like you!
 
-A 9 layers neural network was trained to keep the car driving in the center of the lane line. The model get trained by observing how you drive in the Udacity car [simulator](https://github.com/udacity/self-driving-car-sim).
+A 9 layers neural network was trained to keep the car driving in the center of the lane line. The model get trained by observing how you drive in the Udacity car simulator.
 
 The driving data is captured by 3 cameras. Here are the examples of the captured images:
 
@@ -16,6 +16,7 @@ Some of the highlights of the project are:
 * different kernel sizes and strides are used
 * dropout layer to prevent model overfitting
 * ReLu activation to introduce non-linearity
+* Keras with TensorFlow backend
 * Python generator to work with limited GPU memory
 * explored YUV color space
 * achieved low Mean Square Error (MSE) loss
