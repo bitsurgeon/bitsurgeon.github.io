@@ -15,5 +15,6 @@ Here is a video demostration of the network.
 - LIDAR measurements are red circles
 - RADAR measurements are blue circles with an arrow pointing in the direction of the observed angle
 - estimation markers are green triangles
+- ground truth positions are marked with the object
 
 For details, please follow this [link](https://github.com/bitsurgeon/CarND_ExtendedKalmanFilter).
