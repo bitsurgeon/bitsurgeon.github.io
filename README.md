@@ -4,7 +4,7 @@
 
 ---
 
-### Autonomous Driving
+### Autonomous Vehicle
 
 These are the projects that I have done when completing the [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) from Udacity.
 
