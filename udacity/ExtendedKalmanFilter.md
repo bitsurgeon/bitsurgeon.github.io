@@ -8,7 +8,7 @@ Some of the highlights of the projects:
 * Estimate object's position and velocity with RADAR and LIDAR measurements
 * Use popular linear algebra library [Eigen](http://eigen.tuxfamily.org/index.php)
 
-Here is a video demostration of the network.
+Here is a video demostration.
 
 [![Watch the video](https://img.youtube.com/vi/MtKtwCzxLpE/mqdefault.jpg)](https://youtu.be/MtKtwCzxLpE)
 
@@ -16,5 +16,7 @@ Here is a video demostration of the network.
 - RADAR measurements are blue circles with an arrow pointing in the direction of the observed angle
 - estimation markers are green triangles
 - ground truth positions are marked with the object
+
+As shown in the demo, neither the LIDAR nor the RADAR measurements is good enough for the object tracking by itself. The EKF is making use of the noisy sensor data from both LIDAR and RADAR to provide a posterior of the location of the target. And what's important is that this esitmate is well aligned with the true location of the object.
 
 For details, please follow this [link](https://github.com/bitsurgeon/CarND_ExtendedKalmanFilter).
