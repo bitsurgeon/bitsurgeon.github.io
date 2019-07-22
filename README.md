@@ -1,6 +1,6 @@
 # Welcome to Yongzhi's Portfolio
 
-## This page serves as a master index for the source codes, wikis, thoughts and ideas that were created and developed during my professional career.
+## This page serves as an index page. It represents a subset of the projects, wikis, thoughts and ideas that were created and developed during my professional career.
 
 ---
 
