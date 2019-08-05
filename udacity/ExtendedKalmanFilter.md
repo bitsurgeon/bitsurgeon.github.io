@@ -8,7 +8,7 @@ Some of the highlights of the projects:
 * Estimate object's position and velocity with RADAR and LIDAR measurements
 * Use popular linear algebra library [Eigen](http://eigen.tuxfamily.org/index.php)
 
-Here is a video demostration.
+Here is a video demonstration.
 
 [![Watch the video](https://img.youtube.com/vi/MtKtwCzxLpE/mqdefault.jpg)](https://youtu.be/MtKtwCzxLpE)
 

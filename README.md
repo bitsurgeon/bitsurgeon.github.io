@@ -8,12 +8,13 @@
 
 These are the projects that I have done when completing the [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) from Udacity.
 
+- [Kidnapped Vehicle](./udacity/KidnappedVehicle.md)
 - [Extended Kalman Filter](./udacity/ExtendedKalmanFilter.md)
 - [Behavioral Cloning](./udacity/BehavioralCloning.md)
 - [Traffic Sign Classifier](./udacity/TrafficSignClassifier.md)
 - [Advanced Lane Finding](./udacity/AdvancedLaneFinding.md)
 - [Finding Lane Lines](./udacity/FindingLaneLines.md)
-- Kidnapped Vehicle: _coming soon_
+- Highway Driving: _coming soon_
 
 ---
 
