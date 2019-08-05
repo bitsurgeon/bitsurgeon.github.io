@@ -14,6 +14,7 @@ These are the projects that I have done when completing the [Self-Driving Car En
 - [Traffic Sign Classifier](./udacity/TrafficSignClassifier.md)
 - [Advanced Lane Finding](./udacity/AdvancedLaneFinding.md)
 - [Finding Lane Lines](./udacity/FindingLaneLines.md)
+- Highway Driving: _coming soon_
 
 ---
 
