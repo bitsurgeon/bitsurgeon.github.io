@@ -1,13 +1,16 @@
 # Welcome to Yongzhi's Portfolio
 
-## This page serves as an index page. It represents a subset of the projects, wikis, thoughts and ideas that were created and developed during my professional career.
+You can find a selection of my resent work on this page.
+
+_Welcome all suggestions and discussions for improvements._
 
 ---
 
-### Autonomous Vehicle
+## Autonomous Vehicle
 
 These are the projects that I have done when completing the [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) from Udacity.
 
+- [PID Controller](./udacity/PidController.md)
 - [Kidnapped Vehicle](./udacity/KidnappedVehicle.md)
 - [Extended Kalman Filter](./udacity/ExtendedKalmanFilter.md)
 - [Behavioral Cloning](./udacity/BehavioralCloning.md)
@@ -15,13 +18,13 @@ These are the projects that I have done when completing the [Self-Driving Car En
 - [Advanced Lane Finding](./udacity/AdvancedLaneFinding.md)
 - [Finding Lane Lines](./udacity/FindingLaneLines.md)
 - Highway Driving: _coming soon_
+- Capstone Project: _coming soon_
 
 ---
 
 **Quick Links:**
-+ [Wiki](./wiki.md)
-+ [Gist](./gist.md)
 
-_Welcome all suggestions and discussions for improvements._
+- [Wiki](./wiki.md)
+- [Gist](./gist.md)
 
 ---

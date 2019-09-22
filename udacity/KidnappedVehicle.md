@@ -2,7 +2,7 @@
 
 An end-to-end localizer using 2D Monte Carlo Localization for sparse feature map according to LIDAR measurements.
 
-Some of the highlights of the projects:
+Some of the highlights of the project:
 
 * Implemented [Particle Filter](https://en.wikipedia.org/wiki/Monte_Carlo_localization) in C++
 * Estimate position of a moving car based on LIDAR measurements
