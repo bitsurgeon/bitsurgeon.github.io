@@ -2,7 +2,7 @@
 
 A sensor fusion pipeline for moving object tracking with combined measurements from LIDAR and RADAR.
 
-Some of the highlights of the projects:
+Some of the highlights of the project:
 
 * Implemented [Extended Kalman Filter](https://en.wikipedia.org/wiki/Extended_Kalman_filter) in C++
 * Estimate object's position and velocity with RADAR and LIDAR measurements
