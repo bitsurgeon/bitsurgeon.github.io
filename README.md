@@ -10,6 +10,7 @@ _Welcome all suggestions and discussions for improvements._
 
 These are the projects that I have done when completing the [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) from Udacity.
 
+- [Highway Driving](./udacity/HighwayDriving.md)
 - [PID Controller](./udacity/PidController.md)
 - [Kidnapped Vehicle](./udacity/KidnappedVehicle.md)
 - [Extended Kalman Filter](./udacity/ExtendedKalmanFilter.md)
@@ -17,7 +18,6 @@ These are the projects that I have done when completing the [Self-Driving Car En
 - [Traffic Sign Classifier](./udacity/TrafficSignClassifier.md)
 - [Advanced Lane Finding](./udacity/AdvancedLaneFinding.md)
 - [Finding Lane Lines](./udacity/FindingLaneLines.md)
-- Highway Driving: _coming soon_
 - Capstone Project: _coming soon_
 
 ---
