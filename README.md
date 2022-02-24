@@ -27,9 +27,13 @@ Quick facts:
 
 ## Autonomous Vehicle
 
-These are the projects that I have done when completing the [Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive) from Udacity.
+System
 
-- [Capstone Project](./udacity/Capstone.md)
+- [the Lincoln MKZ](./udacity/Capstone.md)
+
+Modules
+
+- [Traffic Light Classifier](./udacity/TrafficLightClassifier.md)
 - [Highway Driving](./udacity/HighwayDriving.md)
 - [PID Controller](./udacity/PidController.md)
 - [Kidnapped Vehicle](./udacity/KidnappedVehicle.md)
