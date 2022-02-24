@@ -21,7 +21,7 @@ Quick facts:
 - Traxxas Slash 4x4
 - ROS 2
 
-[Get in touch for more infomation](mailto:yliu@waterbridge.consulting)
+[Get in touch for more infomation](mailto:info@waterbridge.consulting)
 
 ---
 
