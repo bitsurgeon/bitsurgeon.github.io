@@ -1,9 +1,11 @@
-# Autonomous RC Car | WATERBRIDGE CONSULTING
+# WATERBRIDGE CONSULTING
+
+## Autonomous RC Car
 
 - Jump start your research projects.
 - Novel algorithm benchmarking at edge.
 
-Quick facts:
+### Quick facts
 
 - NVIDIA Jetson Xavier NX
 - Xilinx KV260 SoM
@@ -12,4 +14,4 @@ Quick facts:
 - VESC 6
 - ROS 2
 
-[Get in touch for more information.](mailto:info@waterbridge.consulting)
+_[Get in touch for more information.](mailto:info@waterbridge.consulting)_
