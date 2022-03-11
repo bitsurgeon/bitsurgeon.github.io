@@ -5,7 +5,7 @@
 - Jump start your research projects.
 - Novel algorithm benchmarking at edge.
 
-### Quick facts
+### Quick Facts
 
 - NVIDIA Jetson Xavier NX
 - Xilinx KV260 SoM
